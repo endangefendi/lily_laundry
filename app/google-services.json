@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922472698527",
+    "firebase_url": "https://loundry-bea35.firebaseio.com",
+    "project_id": "loundry-bea35",
+    "storage_bucket": "loundry-bea35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922472698527:android:2197e9aa531f9e6a",
+        "android_client_info": {
+          "package_name": "com.fend.loundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922472698527-4gdi88cqpf722q4pkeqgfahgkcjjm21o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fend.loundry",
+            "certificate_hash": "5c523ab4e0d69e036c3b51efbd46e543dec75b5b"
+          }
+        },
+        {
+          "client_id": "922472698527-0obb5gjh4nroruuei9vedlegk03a1ppn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCosP9C8sjwmUHGhBYLJPf-nIBwAeVCssU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922472698527-0obb5gjh4nroruuei9vedlegk03a1ppn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
